@@ -1,0 +1,82 @@
+Game Completion
+
+(Walkthroughs for win conditions below)
+
+Win conditions:
+1. The good (boring) ending ->  Escape to the area called "The Unknown". To do this the player must:
+    - First glimpse the luminous fox at the "East Edge of the Crater".
+    - Find the luminous foxglove flower in the "Luminescent Grove" area.
+    - Befriend the Luminous Fox creature in the "Luminescent Hills" area, and thus unlocking passage through the "Cave System" area.
+    - Navigate through the cave system and find "The Unknown".
+
+2. The bad (real) ending -> Recover part of lost memories. To do this the player must:
+    - First collect each type of Phoenix feather: Midnight, Crimson and Cerulean.
+    - Gain entry into the cave system as described in "The good ending" section.
+    - Navigate through the cave system and find "xxxxx".
+    - Sacrifice (use) all three types of feathers to gain a complete energy source.
+    - Bond the already befriended Luminous Fox creature.
+
+Death conditions:
+
+1. Eat (use) the cerulean phoenix eye anywhere.
+2. Get trapped in the "Abandonded Witch Core" area and fail to do anything about it (use crimson moon shard item) in time.
+3. Make the mistake of entering the "Old Crimson Phoenix Tree" area.
+4. Fail to complete the game in 120 turns.
+
+
+Example walkthrough for win condition 1:
+  1. go south
+  2. go east
+  3. go west
+  4. go north
+  5. go east
+  6. go east
+  7. get cerulean phoenix feather
+  8. go west
+  9. go west
+  10. go north
+  11. go west
+  12. get crimson phoenix feather
+  13. go east
+  14. go south
+  15. go west
+  16. get midnight phoenix feather
+  17. go west
+  18. get luminous foxglove flower
+  19. go west
+  20. befriend
+  21. go east
+  22. go north
+  23. go north
+  24. go west
+  25. go west
+
+Example walkthrough for win condition 2:
+  1. go south
+  2. go east
+  3. go west
+  4. go north
+  5. go east
+  6. go east
+  7. get cerulean phoenix feather
+  8. go west
+  9. go west
+  10. go north
+  11. go west
+  12. get crimson phoenix feather
+  13. go east
+  14. go south
+  15. go west
+  16. get midnight phoenix feather
+  17. go west
+  18. get luminous foxglove flower
+  19. go west
+  20. befriend
+  21. go east
+  22. go north
+  23. go north
+  24. go east
+  25. use midnight phoneix feather
+  26. use crimson phoenix feather
+  27. use cerulean phoneix feather
+  28. bond
